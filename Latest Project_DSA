@@ -1,0 +1,31 @@
+DSA Topic Focus         Project Name & Description                                    Core Architecture & Engineering Highlights
+
+Beginner                Hashing, Dynamic Arrays, & String Matching                    Build a lightweight engine that processes massive log files stream-by-stream to identify top-K malicious IPs or error patterns in real-time. Use a custom hash map and rolling hash algorithms.
+                                                                                      High-Frequency Log Analyzer & IP Tracker
+
+
+Beginner                Two Pointers, Sliding Window, & Bit Manipulation              A utility tool that compresses structured data payloads or text streams into packed binary formats using custom bitwise operations and sliding window algorithms.
+
+Intermediate            Trees & Graphs (Tries, Huffman Trees, Disjoint Set Union)     Real-Time Collaboration Operational Transformation (OT) Engine
+                                                                                      The foundational logic of a Google Docs-style real-time collaborative text editor. It resolves edit conflicts between multiple users using concurrent character trees or Tries.
+
+Intermediate            Advanced Heaps & Priority Queues                               Custom Task Scheduler with Starvation Aging Logic
+                                                                                       An operating system-style CPU scheduler simulator that prioritizes tasks based on dynamic execution time and resource locks, preventing task starvation.
+
+Advanced                Graphs, Shortest Paths, & Spatial Indexing                      High-Throughput Ride-Sharing Routing Engine (Uber/Lyft Core)
+                                                                                        A backend engine that instantly matches multiple riders with drivers in a geographical radius and calculates optimal shared routes with dynamic traffic updates.
+                                        
+Advanced                Balanced Trees (B-Trees / LSM-Trees)                            Zero-Dependency LSM-Tree Key-Value Storage Engine
+                                                                                        A high-performance, disk-persistent key-value store modeled after RocksDB, utilizing an in-memory MemTable and disk-based Sorted String Tables (SSTables).
+  
+Pro                     Advanced Tries, Finite Automata, & Bitmasks                     Ultra-Fast Network Packet Inspector & Firewall Engine
+                                                                                        A simulated software-defined network (SDN) component that inspects incoming packets against thousands of complex routing and security rules at wire speed.
+
+Pro                     Succinct Data Structures & Wavelet Trees                        Petabyte-Scale Compressed Columnar Analytics Index
+                                                                                        A read-optimized columnar storage engine index designed to execute rapid aggregate queries over billions of data points while maintaining a highly compressed memory footprint.
+
+
+
+
+
+
