@@ -36,6 +36,15 @@ Best Websits tot Learn Data Structures:
   https://www.geeksforgeeks.org/data-structures/
 
   https://www.toptal.com/developers/sorting-algorithms
+  
+  https://app.codility.com/programmers/lessons/1-iterations/
+
+  https://neetcode.io/roadmap
+
+  https://introcs.cs.princeton.edu/java/44st/
+
+  https://clementmihailescu.github.io/Pathfinding-Visualizer/
+  
 
   <img width="458" height="703" alt="image" src="https://github.com/user-attachments/assets/0cc8fb35-b801-42c0-94ed-937230f8d47b" />      <img width="848" height="1242" alt="Gemini_Generated_Image_oh72izoh72izoh72" src="https://github.com/user-attachments/assets/48fefa7f-74eb-488a-b69c-d608d33ccb05" />
   <img width="848" height="1242" alt="Gemini_Generated_Image_uree53uree53uree" src="https://github.com/user-attachments/assets/6050f01d-5385-4c4f-8a48-43976cbc0cc6" />
