@@ -48,6 +48,12 @@ Best Websits tot Learn Data Structures:
   https://vim-adventures.com/
   
   https://www.hackerrank.com/interview/interview-preparation-kit
+
+  https://pythontutor.com/visualize.html
+  
+  https://algovis.io/
+
+  https://graphonline.ru/en/
   
   <img width="458" height="703" alt="image" src="https://github.com/user-attachments/assets/0cc8fb35-b801-42c0-94ed-937230f8d47b" />      <img width="848" height="1242" alt="Gemini_Generated_Image_oh72izoh72izoh72" src="https://github.com/user-attachments/assets/48fefa7f-74eb-488a-b69c-d608d33ccb05" />
   <img width="848" height="1242" alt="Gemini_Generated_Image_uree53uree53uree" src="https://github.com/user-attachments/assets/6050f01d-5385-4c4f-8a48-43976cbc0cc6" />
@@ -62,6 +68,8 @@ Best Websits tot Learn Data Structures:
 <img width="848" height="1242" alt="Gemini_Generated_Image_zhrcgrzhrcgrzhrc" src="https://github.com/user-attachments/assets/7c7c3ca2-b6db-450e-a9d4-32018bbbac21" />
 <img width="848" height="1242" alt="Gemini_Generated_Image_t475bkt475bkt475" src="https://github.com/user-attachments/assets/1b4e7cbb-d070-4c1c-a25d-3ee27a7fe634" />
 <img width="848" height="1242" alt="Gemini_Generated_Image_g3q965g3q965g3q9" src="https://github.com/user-attachments/assets/86e28f05-91b4-4b6e-abfb-c1252ee2cbb9" />
+<img width="848" height="1242" alt="Gemini_Generated_Image_qg76ssqg76ssqg76" src="https://github.com/user-attachments/assets/0452322d-79ae-486f-ac78-8d77c100c1a6" />
+
 
 
 
