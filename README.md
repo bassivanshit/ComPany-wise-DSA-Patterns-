@@ -62,6 +62,17 @@ Best Websits tot Learn Data Structures:
   https://cses.fi/problemset/](https://cses.fi/problemset/
 
   https://www.codechef.com/](https://www.codechef.com/
+
+  Project Euler: [https://projecteuler.net/
+
+  InterviewBit: https://www.interviewbit.com/
+
+  Exercism: https://exercism.org/
+
+ Binarysearch.com: https://structy.net/](https://structy.net/
+
+ Codeforces: https://codeforces.com/](https://codeforces.com/
+
   
   <img width="458" height="703" alt="image" src="https://github.com/user-attachments/assets/0cc8fb35-b801-42c0-94ed-937230f8d47b" />      <img width="848" height="1242" alt="Gemini_Generated_Image_oh72izoh72izoh72" src="https://github.com/user-attachments/assets/48fefa7f-74eb-488a-b69c-d608d33ccb05" />
   <img width="848" height="1242" alt="Gemini_Generated_Image_uree53uree53uree" src="https://github.com/user-attachments/assets/6050f01d-5385-4c4f-8a48-43976cbc0cc6" />
@@ -77,6 +88,8 @@ Best Websits tot Learn Data Structures:
 <img width="848" height="1242" alt="Gemini_Generated_Image_t475bkt475bkt475" src="https://github.com/user-attachments/assets/1b4e7cbb-d070-4c1c-a25d-3ee27a7fe634" />
 <img width="848" height="1242" alt="Gemini_Generated_Image_g3q965g3q965g3q9" src="https://github.com/user-attachments/assets/86e28f05-91b4-4b6e-abfb-c1252ee2cbb9" />
 <img width="848" height="1242" alt="Gemini_Generated_Image_qg76ssqg76ssqg76" src="https://github.com/user-attachments/assets/0452322d-79ae-486f-ac78-8d77c100c1a6" />
+<img width="848" height="1242" alt="Gemini_Generated_Image_8tm5pp8tm5pp8tm5" src="https://github.com/user-attachments/assets/a496247e-3e67-40ed-9dda-ffd5737b08bb" />
+
 
 
 
