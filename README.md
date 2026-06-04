@@ -73,6 +73,16 @@ Best Websits tot Learn Data Structures:
 
  Codeforces: https://codeforces.com/](https://codeforces.com/
 
+ Elements of Programming Interviews (EPI) Interactive Tooling: https://elementsofprogramminginterviews.com/
+
+ Brilliant.org (Computer Science / Algorithm Tracks): https://brilliant.org/](https://brilliant.org/
+
+Sphere Online Judge (SPOJ): https://www.spoj.com/](https://www.spoj.com/
+
+Tim Roughgarden’s Algorithms (Stanford Visual Companion): https://www.algorithmsillumined.org/
+
+Topcoder: https://www.topcoder.com/](https://www.topcoder.com/
+
   
   <img width="458" height="703" alt="image" src="https://github.com/user-attachments/assets/0cc8fb35-b801-42c0-94ed-937230f8d47b" />      <img width="848" height="1242" alt="Gemini_Generated_Image_oh72izoh72izoh72" src="https://github.com/user-attachments/assets/48fefa7f-74eb-488a-b69c-d608d33ccb05" />
   <img width="848" height="1242" alt="Gemini_Generated_Image_uree53uree53uree" src="https://github.com/user-attachments/assets/6050f01d-5385-4c4f-8a48-43976cbc0cc6" />
