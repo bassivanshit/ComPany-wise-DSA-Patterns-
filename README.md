@@ -83,7 +83,26 @@ Tim Roughgarden’s Algorithms (Stanford Visual Companion): https://www.algorith
 
 Topcoder: https://www.topcoder.com/](https://www.topcoder.com/
 
-  
+Codepip: https://codepip.com/](https://codepip.com/
+
+VisuAlgo Alternative: https://vgarry.github.io/](https://vgarry.github.io/
+
+OpenGenius / VisuAlgo Extension (Graph API Sandboxes): https://www.graphdrudgery.com/
+
+CodeAbbey: https://www.codeabbey.com/
+
+CheckiO: https://checkio.org/
+
+CodeWars Runner Mirror: https://edabit.com/
+
+OverTheWire (Wargames): https://overthewire.org/wargames/
+
+Voxel-Based Pathfinding Sandbox (Three.js Graph Tools): https://qiao.github.io/Pathfinding.js/visual/
+
+LintCode: https://www.lintcode.com/](https://www.lintcode.com/
+
+CSS Battles (For Algorithmic Spatial Logic): https://cssbattle.dev/](https://cssbattle.dev/
+
   <img width="458" height="703" alt="image" src="https://github.com/user-attachments/assets/0cc8fb35-b801-42c0-94ed-937230f8d47b" />      <img width="848" height="1242" alt="Gemini_Generated_Image_oh72izoh72izoh72" src="https://github.com/user-attachments/assets/48fefa7f-74eb-488a-b69c-d608d33ccb05" />
   <img width="848" height="1242" alt="Gemini_Generated_Image_uree53uree53uree" src="https://github.com/user-attachments/assets/6050f01d-5385-4c4f-8a48-43976cbc0cc6" />
 <img width="848" height="1242" alt="Gemini_Generated_Image_9educv9educv9edu" src="https://github.com/user-attachments/assets/489c52a5-35a9-4b2f-bf08-1b76904617b6" />
@@ -100,6 +119,8 @@ Topcoder: https://www.topcoder.com/](https://www.topcoder.com/
 <img width="848" height="1242" alt="Gemini_Generated_Image_qg76ssqg76ssqg76" src="https://github.com/user-attachments/assets/0452322d-79ae-486f-ac78-8d77c100c1a6" />
 <img width="848" height="1242" alt="Gemini_Generated_Image_8tm5pp8tm5pp8tm5" src="https://github.com/user-attachments/assets/a496247e-3e67-40ed-9dda-ffd5737b08bb" />
 <img width="848" height="1242" alt="Gemini_Generated_Image_1tvnpr1tvnpr1tvn" src="https://github.com/user-attachments/assets/7c0cdba9-3644-4daa-94ed-3ab11c323ff3" />
+<img width="848" height="1242" alt="Gemini_Generated_Image_y60i6qy60i6qy60i" src="https://github.com/user-attachments/assets/d07ff73e-f8d4-4404-92f2-4049ee01e73d" />
+
 
 
 
