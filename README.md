@@ -140,6 +140,8 @@ Algorithmic Dance Visualizations (by Sapientia University): https://www.youtube.
 <img width="848" height="1242" alt="Gemini_Generated_Image_8tm5pp8tm5pp8tm5" src="https://github.com/user-attachments/assets/a496247e-3e67-40ed-9dda-ffd5737b08bb" />
 <img width="848" height="1242" alt="Gemini_Generated_Image_1tvnpr1tvnpr1tvn" src="https://github.com/user-attachments/assets/7c0cdba9-3644-4daa-94ed-3ab11c323ff3" />
 <img width="848" height="1242" alt="Gemini_Generated_Image_y60i6qy60i6qy60i" src="https://github.com/user-attachments/assets/d07ff73e-f8d4-4404-92f2-4049ee01e73d" />
+<img width="848" height="1242" alt="Gemini_Generated_Image_neitjnneitjnneit" src="https://github.com/user-attachments/assets/a8db1391-e457-4532-bedd-f8bb3b56c874" />
+
 
 
 
